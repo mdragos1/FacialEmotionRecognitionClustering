@@ -1,8 +1,4 @@
-
 # Practical Machine Learning Project
-
-## Author
-Mihalcea Dragos Stefan, 407
 
 ## Project Overview
 
